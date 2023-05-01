@@ -6,6 +6,7 @@ branch (see all branch avaibles)
 branch 'name' (create the brance 'name')
 checkout 'name' (go to the branch 'name')
 pull (download most recent files)
+touch .gitignore (create the file to never commit files/folders
 
 # branch are usefull to create DEV, QAS, and production enviroments
 # process:
@@ -17,3 +18,4 @@ pull (download most recent files)
 # 6. git pull from main branch
 # 7. merge 'new branch'
 # 8. push from main branch
+
