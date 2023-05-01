@@ -5,3 +5,7 @@ push (send the commit to the branch)
 branch (see all branch avaibles)
 branch 'name' (create the brance 'name')
 checkout 'name' (go to the branch 'name')
+
+
+# branch are usefull to create DEV, QAS, and production enviroments
+# new comment
