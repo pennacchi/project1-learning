@@ -1,0 +1,7 @@
+status (verify which files are going to be added to the commit)
+add (define the files tha will be commited)
+commit (create a commit)
+push (send the commit to the branch)
+branch (see all branch avaibles)
+branch 'name' (create the brance 'name')
+checkout 'name' (go to the branch 'name')
